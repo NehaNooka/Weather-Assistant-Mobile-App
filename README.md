@@ -1,6 +1,6 @@
 # Personal Weather Assistant
 
-[Watch the Demo Video]([(https://youtu.be/v1CCxFpI1wM])
+[Watch the Demo Video](https://youtu.be/v1CCxFpI1wM)
 
 ## Project Overview
 
